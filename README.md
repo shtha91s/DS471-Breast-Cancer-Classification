@@ -14,6 +14,7 @@ Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/17
 ## Project Files
 - `DS471_Breast_Cancer_Classification_final (1).ipynb` — Notebook covering the project workflow.
 - `wdbc_clean.csv` — Dataset used by the notebook.
+- - `ds471_breast_cancer_classification_final.py` — Python script for the project.
 - Project report — Final report submitted with the project.
 
 ## Models
